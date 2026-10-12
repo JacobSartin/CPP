@@ -14,7 +14,7 @@
       "cacheVariables": {
         "CMAKE_CXX_COMPILER": "clang++",
         "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
-        "CHESS_WARNINGS_AS_ERRORS": "ON"
+        "WARNINGS_AS_ERRORS": "ON"
       },
       "condition": {
         "type": "equals",
